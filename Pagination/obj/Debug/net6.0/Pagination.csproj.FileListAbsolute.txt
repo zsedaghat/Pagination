@@ -1,0 +1,15 @@
+D:\sample\Pagination\Pagination\bin\Debug\net6.0\Pagination.exe
+D:\sample\Pagination\Pagination\bin\Debug\net6.0\Pagination.deps.json
+D:\sample\Pagination\Pagination\bin\Debug\net6.0\Pagination.runtimeconfig.json
+D:\sample\Pagination\Pagination\bin\Debug\net6.0\Pagination.dll
+D:\sample\Pagination\Pagination\bin\Debug\net6.0\ref\Pagination.dll
+D:\sample\Pagination\Pagination\bin\Debug\net6.0\Pagination.pdb
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.csproj.AssemblyReference.cache
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.AssemblyInfoInputs.cache
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.AssemblyInfo.cs
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.csproj.CoreCompileInputs.cache
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.dll
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\ref\Pagination.dll
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.pdb
+D:\sample\Pagination\Pagination\obj\Debug\net6.0\Pagination.genruntimeconfig.cache
